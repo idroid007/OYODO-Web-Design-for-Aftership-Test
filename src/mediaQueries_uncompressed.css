@@ -1,0 +1,43 @@
+@media only screen  and (min-width : 1224px) {
+    .nav{display: block;}
+}
+@media only screen  and (max-width: 700px) {
+  .nav {
+    display: none;
+  }
+    .nav-mobile{
+        display: block;
+    }
+    .side-menu{
+        display:none;
+    }
+    .wrapper{
+        display: block;
+      margin:0;
+        padding:0;
+        
+        width: 100% !important;
+        min-width:inherit;
+    max-width:inherit;
+    }
+    .more_articles{
+        width: 100%;
+    }
+    .headline{
+        width:100% !important;
+       
+    }
+    
+    .article_square{
+        width:95%;
+        margin-top:35px;
+        padding:10px;
+        
+    }
+
+ 
+}
+
+
+
+

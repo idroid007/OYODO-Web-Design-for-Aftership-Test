@@ -1,0 +1,5 @@
+/*
+Author : ishu sharma
+email : ishubot@gmail.com
+*/
+@media only screen and (min-width :1224px){.nav{display:block}}@media only screen and (max-width:700px){.nav{display:none}.nav-mobile{display:block}.side-menu{display:none}.wrapper{display:block;margin:0 auto;padding:0;width:100%!important;min-width:inherit;max-width:inherit}.more_articles{width:100%}.headline{width:100%!important}.article_square{width:95%;margin-top:35px;padding:0}.article_square>img{height:200px}}@media only screen and (min-device-width :768px) and (max-device-width :1024px){.wrapper{width:100%!important}}@media only screen and (min-device-width :768px) and (max-device-width :1024px) and (-webkit-min-device-pixel-ratio:2){.wrapper{width:100%!important}@media only screen and (min-device-width :768px) and (max-device-width :1024px) and (-webkit-min-device-pixel-ratio:1){.wrapper{width:100%!important}}}
